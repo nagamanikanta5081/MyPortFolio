@@ -65,6 +65,12 @@ const certificates = [
         type: "Networking"
     },
     {
+        title: "Full Stack Java Development Certification",
+        description: "Certification of completion along with Cloud Deployment",
+        link: "https://www.linkedin.com/posts/nagamanikanta160302_120daysoflearning-destinationcodegnan-java-activity-7397322316113727488-oVjf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFC1-NQBtoJ7tE0Mo-V_YPqJQc-hcx25sg8",
+        type: "Database"
+    },
+    {
         title: "International Scientific Conference",
         description: "Research presentation and participation certificate",
         link: "https://www.linkedin.com/posts/nagamanikanta160302_btech-finalyearproject-research-activity-7388983370396954624-fnU4",
@@ -75,12 +81,6 @@ const certificates = [
         description: "Java programming fundamentals certification",
         link: "https://www.hackerrank.com/certificates/iframe/10dac254d12b",
         type: "Programming"
-    },
-    {
-        title: "HackerRank - SQL (Basic)",
-        description: "SQL database fundamentals certification",
-        link: "https://www.hackerrank.com/certificates/iframe/c6f57b2968e6",
-        type: "Database"
     }
 ];
 
